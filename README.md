@@ -41,7 +41,7 @@ git commit -am "preprocess job description"
 ```
 - Push local changes to remote repository:
 ```
-git push --all
+git push origin main
 ```
 - Fetch new changes from remote repository:
 ```
