@@ -31,6 +31,10 @@ Our goal for the final project is to create a salary range classification model 
 ```
 git clone https://github.com/krystennguyen/nlp_salary_predictor.git
 ```
+- Add new files before commit:
+```
+git add --all
+```
 - Committing changes:
 ```
 git commit -am "preprocess job description"
