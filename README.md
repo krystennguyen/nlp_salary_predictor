@@ -10,8 +10,8 @@ Our goal for the final project is to create a salary range classification model 
 
 ## Implementation Outline:
 ### 1. Data Preprocessing:
-- Convert all salary information into yearly compensation. Drop rows without salary information. (Krysten)
-- Divide the salary information into discrete classes: low, medium, high. (Krysten) - PROCESSED DATA: job_postings_salary.csv
+✅ Convert all salary information into yearly compensation. Drop rows without salary information. (Krysten)
+✅ Divide the salary information into discrete classes: low, medium, high. (Krysten) - PROCESSED DATA: job_postings_salary.csv
 - Preprocess the job description text data by tokenizing, lowercasing, removing punctuation, stopwords, and performing stemming or lemmatization. (Mansheel)
 
 
