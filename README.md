@@ -13,15 +13,15 @@ Our goal for the final project is to create a salary range classification model 
 ✅ Convert all salary information into yearly compensation. Drop rows without salary information. (Krysten)
 
 ✅ Divide the salary information into discrete classes: low, medium, high. (Krysten) - PROCESSED DATA: job_postings_salary.csv
-- Preprocess the job description text data by tokenizing, lowercasing, removing punctuation, stopwords, and performing stemming or lemmatization. (Mansheel)
+✅ Preprocess the job description text data by tokenizing, lowercasing, removing punctuation, stopwords, and performing stemming or lemmatization. (Mansheel)
 
 
 ### 2. TF-IDF Vectorization:
-- Calculate the TF-IDF scores for each term in the job postings relative to the entire corpus. (Mansheel)
+✅ Calculate the TF-IDF scores for each term in the job postings relative to the entire corpus. (Mansheel)
 - Output TF-IDF matrix where each row represents a job posting and each column represents a unique term in the corpus. (Mansheel)
 
 ### 3. Random Forest Model
-- Split the dataset into training and testing sets (80-20). The training set will be used to train the classification model, while the testing set will be used to evaluate its performance. (Krysten)
+✅ Split the dataset into training and testing sets (80-20). The training set will be used to train the classification model, while the testing set will be used to evaluate its performance. (Krysten)
 - Train a logistic regression classification model using the TF-IDF vectors as features and the labeled salary ranges as the target variable. (Krysten)
   
 ### 4. Model Evaluation:
