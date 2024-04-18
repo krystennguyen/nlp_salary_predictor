@@ -1,0 +1,48 @@
+Salary Bin 1 - Range 50k-100k
+manag: 15797
+includ: 12830
+’: 12584
+team: 12382
+requir: 11702
+commun: 9908
+servic: 9793
+provid: 9324
+skill: 9158
+applic: 8945
+
+Salary Bin 0 - Range 0-50k
+custom: 8463
+servic: 6938
+requir: 6720
+’: 6682
+includ: 6597
+team: 5891
+provid: 5280
+time: 5191
+manag: 5120
+commun: 5067
+
+Salary Bin 3 - Range 150k+
+manag: 7857
+team: 7412
+’: 5917
+develop: 5908
+busi: 5833
+includ: 5070
+product: 4412
+data: 3487
+skill: 3457
+role: 3439
+
+Salary Bin 2 - Range 100k-150k
+manag: 11662
+team: 9183
+’: 8260
+develop: 8237
+includ: 8064
+requir: 6757
+project: 6548
+busi: 6515
+support: 5527
+applic: 5507
+
