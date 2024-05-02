@@ -24,7 +24,7 @@ Processed descriptions: processed_description.csv
 ✅ Output TF-IDF vectors each row represents a job posting and each column represents a unique term in the corpus. (Mansheel)
 
 ### 3. MPNet Vectorization: word_embedding.py
-✅ Using the pretrained Masked Permuted Pre-trained Network to perform word embedding and vectorize job descriptions. (Ethan)
+✅ Using the pretrained Masked Permuted Pre-trained Network to perform word embedding and vectorize job descriptions. (Ethan, Oona)
 
 ### 3. Classification Model Experiments: tfidf_models.ipynb, mpnet_models.ipynb
 ✅ Split the dataset into training and testing sets (80-20). The training set will be used to train the classification model, while the testing set will be used to evaluate its performance. (Krysten)
