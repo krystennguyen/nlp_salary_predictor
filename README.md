@@ -29,33 +29,10 @@ Processed descriptions: processed_description.csv
 ### 3. Classification Model Experiments: tfidf_models.ipynb, mpnet_models.ipynb
 ✅ Split the dataset into training and testing sets (80-20). The training set will be used to train the classification model, while the testing set will be used to evaluate its performance. (Krysten)
 
-- Train a logistic regression, SVM, RandomForest, AdaBoost, XGBoost, Deep Neural Network to  classify salary range using either the TF-IDF or MPNET vectors as features and the labeled salary bins as the target variable. (Krysten)
+✅ Train a logistic regression, SVM, RandomForest, AdaBoost, XGBoost, Deep Neural Network to  classify salary range using either the TF-IDF vectors and MPNET embeddings as features and the labeled salary bins as the target variable. (Krysten)
+
+✅ Build a Neural Network with pretrained BERT model (Krysten)
   
 ### 4. Model Evaluation:
-- Evaluate the performance of the logistic regression model on the testing set using metrics such as accuracy, precision, recall, F1-score, AUC. (Krysten)
+✅ Evaluate the performance of the logistic regression model on the testing set using metrics such as accuracy, precision, recall, F1-score, AUC. (Krysten)
 
-## Github commands:
-- Clone this repository:
-```
-git clone https://github.com/krystennguyen/nlp_salary_predictor.git
-```
-- Add new files before commit:
-```
-git add --all
-```
-- Committing changes:
-```
-git commit -am "preprocess job description"
-```
-- Push local changes to remote repository:
-```
-git push origin main
-```
-- Fetch new changes from remote repository:
-```
-git fetch
-```
-- Merge new changes from remote repository:
-```
-git pull
-```
