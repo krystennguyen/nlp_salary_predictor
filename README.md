@@ -36,3 +36,8 @@ Processed descriptions: processed_description.csv
 ### 4. Model Evaluation:
 ✅ Evaluate the performance of the logistic regression model on the testing set using metrics such as accuracy, precision, recall, F1-score, AUC. (Krysten)
 
+## Final Report: [read here](https://github.com/krystennguyen/nlp_salary_predictor/blob/b0cf12a60491cc7731b7af7aca48950f513ae9b8/NLPSalaryModelReport.pdf)
+
+
+
+
